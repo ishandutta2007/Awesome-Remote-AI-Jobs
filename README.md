@@ -33,6 +33,7 @@ These platforms frequently list remote AI and ML positions.
 | [Kaggle Jobs](https://www.kaggle.com/jobs)    | Data Science, ML                  | From the popular data science competition platform.                |
 | [DeepLearning.ai Jobs](https://jobs.deeplearning.ai/) | AI & Deep Learning | Job board from Andrew Ng's DeepLearning.ai. |
 | [Hugging Face Jobs](https://huggingface.co/jobs) | NLP, Transformers | Jobs at Hugging Face and other companies using their tech. 🤗 |
+| [Gridnaut Recruiting](https://gridnaut.site/jobs/) | AI Training, Evaluation & Domain Experts | Curated Mercor referral roles. 100% remote, $23–$180/hr. 🛰️ |
 
 
 ---
