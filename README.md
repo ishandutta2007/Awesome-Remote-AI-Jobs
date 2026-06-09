@@ -2,18 +2,15 @@
 
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-AI-Jobs?style=social)](https://github.com/ishandutta2007/Awesome-Remote-AI-Jobs)
-<br />
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Remote-AI-Jobs?style=social)](https://github.com/ishandutta2007/Awesome-Remote-AI-Jobs)
+  <br />
+    <a href="https://github.com/ishandutta2007">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
 
-A curated list of awesome remote job boards, companies, and resources for AI and Machine Learning professionals. Inspired by the [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) list.
+  A curated list of awesome remote job boards, companies, and resources for AI and Machine Learning professionals. Inspired by the [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) list.
 
-<div>
+</div>
 
 ## Contents
 
