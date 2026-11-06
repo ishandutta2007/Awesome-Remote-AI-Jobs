@@ -48,6 +48,7 @@ These platforms frequently list remote AI and ML positions.
 | [DeepLearning.ai Jobs](https://jobs.deeplearning.ai/) | AI & Deep Learning | Job board from Andrew Ng's DeepLearning.ai. | Free |
 | [Hugging Face Jobs](https://huggingface.co/jobs) | NLP, Transformers | Jobs at Hugging Face and other companies using their tech. 🤗 | Free |
 | [Gridnaut Recruiting](https://gridnaut.site/jobs/) | AI Training, Evaluation & Domain Experts | Curated Mercor referral roles. 100% remote, $23–$180/hr. 🛰️ | Free |
+| [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) | Robot Training & Physical AI Data | Remote robot teleoperation and at-home video capture for AI training, by applicant country, with posted pay. | Free |
 
 
 ---
