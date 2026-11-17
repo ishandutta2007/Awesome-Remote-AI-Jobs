@@ -65,6 +65,7 @@ These top platforms frequently feature remote AI, Machine Learning, Deep Learnin
 | :--- | :--- | :--- | :--- |
 | [AI Jobs](https://ai-jobs.net/) 🧠 | AI, ML & Data Science | Dedicated, high-signal niche job board for AI and ML practitioners. | Free |
 | [AI Trainer Jobs](https://aitrainer.jobs/) 🏷️ | RLHF & Data Annotation | Dedicated to AI model evaluation, prompt engineering, and training jobs. | Free |
+| [CookLLM](https://cookllm.com/en/jobs/match) 📬 | AI & ML | An AI job matcher that emails you new roles that fit. | Paid |
 | [DeepLearning.ai Jobs](https://jobs.deeplearning.ai/) 🎓 | AI & Deep Learning | Curated job portal backed by Andrew Ng's DeepLearning.ai platform. | Free |
 | [Gridnaut Recruiting](https://gridnaut.site/jobs/) 🛰️ | AI Training, Evaluation & Domain Experts | Curated Mercor referral roles; 100% remote positions ($23–$180/hr). | Free |
 | [Hugging Face Jobs](https://huggingface.co/jobs) 🤗 | NLP, Transformers & Open Source AI | Careers at Hugging Face and partner companies utilizing open source AI. | Free |
