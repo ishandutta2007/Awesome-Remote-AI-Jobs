@@ -71,6 +71,7 @@ These top platforms frequently feature remote AI, Machine Learning, Deep Learnin
 | [Kaggle Jobs](https://www.kaggle.com/jobs) 📊 | Data Science & ML | Listings directly targeted at data scientists and competitive ML builders. | Free |
 | [MLRemotely](https://mlremotely.com/) 🤖 | Machine Learning & Deep Learning | Curated remote ML engineering, computer vision, and research openings. | Free |
 | [Outlier.ai](https://outlier.ai/) ✍️ | AI Model Training & Evaluation | Freelance/remote AI training, code verification, RLHF, and domain fine-tuning. | Free |
+| [Present of AI](https://presentofai.com/jobs) 🧩 | AI Company & Jobs Aggregator | 9,745+ open AI roles across 5,863+ AI companies, with a free public API, MCP server, and job feed for agents. | Free |
 | [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) 🦾 | Robot Training & Physical AI Data | Remote teleoperation and at-home video capture for physical AI training with posted pay. | Free |
 | [ThirstySprout](https://thirstysprout.com/) 🌿 | Vetted ML/MLOps Specialists | Focused talent network matching senior AI engineers with top companies. | Free |
 
